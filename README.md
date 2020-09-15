@@ -10,4 +10,7 @@
 
 ### Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring filesystem syncing with Rust](https://pobe.ga/posts/rust-filesystem-sync/)
+- [Firefox & Hardware Video Decoding on Wayland](https://pobe.ga/posts/firefox-video-decoding/)
+- [Firefox Flatpak hits Flathub stable](https://pobe.ga/posts/firefox-flatpak-stable/)
 <!-- BLOG-POST-LIST:END -->
