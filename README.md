@@ -1,6 +1,6 @@
 ### Projects
 - [gnome-shell-indicator-mullvad](https://github.com/Pobega/gnome-shell-extension-mullvad-indicator) -  Indicator icon that displays MullvadVPN connection status (install at [extensions.gnome.org](https://extensions.gnome.org/extension/3560/mullvad-indicator/))
-- [com.fightcade.Fightcade](https://github.com/Pobega/com.fightcade.Fightcade) - Flatpak for [Fightcade](https://www.fightcade.com/), a service to play arcade games online
+- [com.fightcade.Fightcade](https://github.com/flathub/com.fightcade.Fightcade) - Flatpak for [Fightcade](https://www.fightcade.com/), a service to play arcade games online ([install from Flathub](https://flathub.org/apps/details/com.fightcade.Fightcade))
 - [Godot Games](https://github.com/Pobega/GodotGames) - an assortment of Godot engine games I've made for fun.
 
 ### About Me
