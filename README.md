@@ -10,7 +10,7 @@
 
 ### Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 Update: Firefox &amp; Hardware Video Decoding on Wayland](https://pobe.ga/posts/firefox-video-decoding-2023/)
 - [Monitoring filesystem syncing with Rust](https://pobe.ga/posts/rust-filesystem-sync/)
-- [Firefox & Hardware Video Decoding on Wayland](https://pobe.ga/posts/firefox-video-decoding/)
-- [Firefox Flatpak hits Flathub stable](https://pobe.ga/posts/firefox-flatpak-stable/)
+- [Firefox &amp; Hardware Video Decoding on Wayland](https://pobe.ga/posts/firefox-video-decoding/)
 <!-- BLOG-POST-LIST:END -->
