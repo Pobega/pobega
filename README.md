@@ -10,7 +10,7 @@
 
 ### Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing using Docker inside of a container](https://pobe.ga/posts/docker-from-container/)
 - [2023 Update: Firefox &amp; Hardware Video Decoding on Wayland](https://pobe.ga/posts/firefox-video-decoding-2023/)
 - [Monitoring filesystem syncing with Rust](https://pobe.ga/posts/rust-filesystem-sync/)
-- [Firefox &amp; Hardware Video Decoding on Wayland](https://pobe.ga/posts/firefox-video-decoding/)
 <!-- BLOG-POST-LIST:END -->
